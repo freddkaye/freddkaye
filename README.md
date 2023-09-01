@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freddkaye
-- 👀 I’m interested in forex trading, crypto trading, web programming and mobile apps
+- 👀 I’m interested in Frontend Developing and Forex Trading
 - 🌱 I’m currently learning about trading the financial market.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
