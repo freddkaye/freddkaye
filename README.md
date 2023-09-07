@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freddkaye
 - 👀 I’m interested in Frontend Developing and Forex Trading
-- 🌱 I’m currently learning about trading the financial market.
+- 🌱 I’m an expect in trading the financial market and curruntly learning more about Frontend developing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
   https://www.linkedin.com/in/frederick-kaakoye-98ab16243/
