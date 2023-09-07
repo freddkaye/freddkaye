@@ -2,7 +2,8 @@
 - 👀 I’m interested in Frontend Developing and Forex Trading
 - 🌱 I’m currently learning about trading the financial market.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me
+  https://www.linkedin.com/in/frederick-kaakoye-98ab16243/
 
 <!---
 freddkaye/freddkaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
