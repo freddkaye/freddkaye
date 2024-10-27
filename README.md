@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frederick Kaakoye
 - 👀 I’m interested in Frontend Developing, Data Analysis and Financial Trading
 - 🌱 I’m an expect in trading the financial market and curruntly learning more about Frontend developing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me
   https://www.linkedin.com/in/frederick-kaakoye-98ab16243/
 
