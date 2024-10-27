@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @freddkaye
-- 👀 I’m interested in Frontend Developing and Forex Trading
+- 👋 Hi, I’m Frederick Kaakoye
+- 👀 I’m interested in Frontend Developing, Data Analysis and Financial Trading
 - 🌱 I’m an expect in trading the financial market and curruntly learning more about Frontend developing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
